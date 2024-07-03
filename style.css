@@ -3,15 +3,16 @@
     margin: 0;
 }
 header{
-background-color:rgb(137, 157, 143);
+background-color:white;
 color: black;
 display: flex;
 justify-content: space-around;
 align-items: center;
-padding: 40px 0;
+padding: 24px 0;
 }
+
 .cabecalho-imagem{
-     width: 58%;
+     width: 70%;
 
 }
 .cabecalho-imagem{
@@ -20,10 +21,24 @@ padding: 40px 0;
     font-size: 24px;
 }
 .imagem-agrinhinho {
-    width: 100%;
+    width: 50%;
 
 }
 .cientistas-imagem{
+    width: 50%;
+}
+.agrinho-div-conteudo{
+
     width: 100%;
+}
+.cor-de-fundo{
+
+background-color:rgb(193, 213, 15);
+}
+
+.imagem-agrinhinho{
+padding:0 ;
+margin: 40;
+
 }
 
