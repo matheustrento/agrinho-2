@@ -17,15 +17,15 @@ padding: 24px 0;
 }
 .cabecalho-imagem{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 24px;
     font-size: 24px;
 }
 .imagem-agrinhinho {
-    width: 50%;
+    width: 70%;
 
 }
 .cientistas-imagem{
-    width: 50%;
+    width: 70%;
 }
 .agrinho-div-conteudo{
 
@@ -33,12 +33,10 @@ padding: 24px 0;
 }
 .cor-de-fundo{
 
-background-color:rgb(193, 213, 15);
+background-color:rgb(220, 213, 235);
 }
 
-.imagem-agrinhinho{
-padding:0 ;
-margin: 40;
-
+.margem{
+    margin: 300px;
 }
 
